@@ -13,7 +13,7 @@ When TrackBang registers the cursor being present in a screen corner, it waits f
 
 Why use it? In my opinion, TrackBang can be very beneficial for four reasons:
 
-1. Click-and-drag type gestures where you have to hold down a button while operating the trackball are not very comfortable on trackballs as opposed to mice. While this is a somewhat less pressing issue on thumb-operated trackballs, it is especially annoying in connection with the non-primary buttons on finger-operated trackballs where gestures often require crazy hand acrobatics. With the Slimblade, for example, I'd say all three non-thumb buttons make for pretty uncomfortable click-and-drag gestures. And you can't really use the comfortable primary button for gestures as it's generally reserved for drag and drop operations in the OS.
+1. Click-and-drag type gestures where you have to hold down a button while operating the trackball are not very comfortable on trackballs as opposed to mice. While this is a somewhat less pressing issue on thumb-operated trackballs, it is especially annoying in connection with the non-primary buttons on finger-operated trackballs where gestures often require crazy hand acrobatics. With the Kensington Slimblade trackball, for example, I'd say all three non-thumb buttons make for pretty uncomfortable click-and-drag gestures. And you can't really use the comfortable primary button for gestures as it's generally reserved for drag and drop operations in the OS.
    
 2. A number of (mostly old-school) trackballs only have 2 or 3 buttons. For these, TB adds endless options for executing more commands with your pointing device.
 
