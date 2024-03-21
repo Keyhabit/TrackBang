@@ -1,7 +1,7 @@
 # TrackBang
-Gesture-based macros designed with Trackballs, Touchpads and Trackpads in mind
+## Gesture-based macros designed with Trackballs, Touchpads and Trackpads in mind
 
-Trackbang is a script for Windows written in Autohotkey.
+Trackbang is a script for Windows written in **Autohotkey**.
 
 It makes Trackballs, Touchpads and Trackpads much more versatile by adding a great many easily accesible gestures.
 
