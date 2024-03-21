@@ -17,7 +17,7 @@ Why use it? In my opinion, TrackBang can be very beneficial for four reasons:
    
 2. A number of (mostly old-school) trackballs only have 2 or 3 buttons. For these, TrackBang adds endless options for executing more commands with your pointing device.
 
-3. Trackpads and Touchpads have a limited number of gestures, mostly taken up by predefined default functionality, like scrolling or bringing up the desktop. Plus quite a few of the gestures done with multiple fingers take some effort to perform correctly. I think TrackBang can really shine for Trackpad / Laptop users who need to access more commands via their pointing device.
+3. Trackpads and Touchpads have a limited number of gestures, mostly taken up by predefined default functionality, like scrolling or bringing up the desktop. Plus quite a few of the gestures done with multiple fingers take some effort to perform correctly. I think TrackBang can really shine for Trackpad / Laptop users who want to access more commands via their pointing device.
 
 4. RSI-related issues or certain handicaps: With TrackBang, you can execute many actions without having to click any buttons at all. If you increase the period of time in which the script scans for gestures, you can complete these at your own pace, which may be helpful for anyone with special ergonomic requirements.
 Now please explore the demo video. I just want to point out that, given the anatomy of our hands and lower arms, the bottom corners are the most accessible unless you reverse the Y axis on your device. I will be focusing on the bottom left corner in the demo.
