@@ -21,7 +21,7 @@ Why use it? In my opinion, TrackBang can be very beneficial for four reasons:
 
 4. RSI-related issues or certain handicaps: With TrackBang, you can execute many actions without having to click any buttons at all. If you increase the period of time in which the script scans for gestures, you can complete these at your own pace, which may be helpful for anyone with special ergonomic requirements.
 
-Please have a look at the demo video below. I just want to point out that, given the anatomy of our hands and lower arms, the bottom corners are the most accessible unless you reverse the Y axis on your device, hence the focus on the bottom left (SW / SouthWest) corner in the demo.
+Please have a look at the demo video below. In it, I have only assigned an actual command to the short upward (12 o'clock) gesture - it launches Notepad. All the other gestures merely pop up an OSD message in green writing to document the type of gesture that was used. Also let me point out that, given the anatomy of our hands and lower arms, the bottom corners are the most accessible unless you reverse the Y axis on your device, hence the focus on the bottom left (SW / SouthWest) corner in the demo.
 
 https://github.com/Keyhabit/TrackBang/assets/56698156/d4188fd9-800f-48aa-9c72-1202c4f50551
 
